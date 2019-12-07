@@ -1,0 +1,11 @@
+{
+    "id" : "pixinvaders",
+    "version" : "0.0.1",
+    "displayName" : "Pixel Invaders",
+    "description" : "Adds some fun pixel stuff.",
+    "dependencies" : [
+        {
+            "id" : "core"
+        }
+    ]
+}
