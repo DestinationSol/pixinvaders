@@ -1,7 +1,7 @@
 {
   "Blokker Medium": {
     "hull": "pixinvaders:blokkerMedium",
-    "items": "15*rep core:nailGun-1 10*core:nailClip",
+    "items": "15*rep core:lightArmor-1 core:nailGun-1 10*core:nailClip",
     "money": 600
   }
 }
