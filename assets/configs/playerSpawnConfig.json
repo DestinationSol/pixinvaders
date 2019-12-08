@@ -3,5 +3,10 @@
     "hull": "pixinvaders:blokkerMedium",
     "items": "15*rep core:lightArmor-1 core:nailGun-1 10*core:nailClip",
     "money": 600
+  },
+  "Blokker Large": {
+    "hull": "pixinvaders:blokkerLarge",
+    "items": "20*rep core:lightArmor-1 2*pixinvaders:paxer 10*core:bulletClip",
+    "money": 1000
   }
 }
