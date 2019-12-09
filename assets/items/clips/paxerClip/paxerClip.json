@@ -1,0 +1,8 @@
+{
+  "projectile": "paxer",
+  "size": 30,
+  "price": 30,
+  "displayName": "Paxer Clip",
+  "plural": "Paxer Clips",
+  "iconName": "paxerClipIcon"
+}

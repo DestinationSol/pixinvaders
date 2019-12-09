@@ -6,7 +6,7 @@
   "timeBetweenShots": 0.1,
   "reloadTime": 10,
   "price": 500,
-  "clipName": "core:bulletClip",
+  "clipName": "pixinvaders:paxerClip",
   "gunLength": 0.4,
   "displayName": "Paxer Gun",
   "lightOnShot": true,

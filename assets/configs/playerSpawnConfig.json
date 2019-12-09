@@ -8,5 +8,10 @@
     "hull": "pixinvaders:blokkerLarge",
     "items": "20*rep core:mediumArmor-1 core:bigShield-1 2*pixinvaders:paxer 20*core:bulletClip",
     "money": 1000
+  },
+  "Blokker Capital": {
+    "hull": "pixinvaders:blokkerCapital",
+    "items": "20*rep core:mediumArmor-1 core:bigShield-1 2*pixinvaders:paxer 20*pixinvaders:paxerClip",
+    "money": 1000
   }
 }

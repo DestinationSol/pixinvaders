@@ -1,0 +1,19 @@
+{
+  "paxer": {
+    "dmg": 6.2,
+    "dmgType": "energy",
+    "speed": 12,
+
+    "tex": "pixinvaders:paxer",
+    "texSz": 0.3,
+
+    "collisionEffect": {
+      "effectFile": "core:explFire",
+      "size": 0.2,
+      "tex": "core:fire",
+      "tint": "120 110 90"
+    },
+
+    "collisionSound": "core:blastCollision"
+  }
+}
