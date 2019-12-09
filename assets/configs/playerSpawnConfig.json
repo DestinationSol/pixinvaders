@@ -1,17 +1,22 @@
 {
+  "Blokker Small": {
+    "hull": "pixinvaders:blokkerSmall",
+    "items": "5*rep core:lightArmor-1 core:smallShield-1 core:blaster-1",
+    "money": 50
+  },
   "Blokker Medium": {
     "hull": "pixinvaders:blokkerMedium",
     "items": "15*rep core:lightArmor-1 core:nailGun-1 10*core:nailClip",
-    "money": 600
+    "money": 300
   },
   "Blokker Large": {
     "hull": "pixinvaders:blokkerLarge",
-    "items": "20*rep core:mediumArmor-1 core:bigShield-1 2*pixinvaders:paxer 20*core:bulletClip",
-    "money": 1000
+    "items": "20*rep core:mediumArmor-1 core:bigShield-1 pixinvaders:paxer-1 pixinvaders:paxer-2 10*pixinvaders:paxerClip",
+    "money": 2000
   },
   "Blokker Capital": {
     "hull": "pixinvaders:blokkerCapital",
-    "items": "20*rep core:mediumArmor-1 core:bigShield-1 2*pixinvaders:paxer 20*pixinvaders:paxerClip",
-    "money": 1000
+    "items": "20*rep core:mediumArmor-1 pixinvaders:paxer-1 pixinvaders:paxer-2 25*pixinvaders:paxerClip core:bigShield-1 ",
+    "money": 11000
   }
 }
