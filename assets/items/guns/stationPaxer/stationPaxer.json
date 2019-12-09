@@ -1,0 +1,20 @@
+{
+  "fixed": false,
+  "maxAngleVar": 20,
+  "angleVarDamp": 10,
+  "angleVarPerShot": 3.2,
+  "timeBetweenShots": 0.1,
+  "reloadTime": 5,
+  "price": 9999999999,
+  "clipName": "pixinvaders:paxerClip",
+  "gunLength": 0.4,
+  "displayName": "Paxer Gun",
+  "lightOnShot": true,
+  "shootSounds": [
+    "core:fixedGunShoot0",
+    "core:fixedGunShoot1"
+  ],
+  "reloadSounds": [
+    "core:fixedGunReload"
+  ]
+}
